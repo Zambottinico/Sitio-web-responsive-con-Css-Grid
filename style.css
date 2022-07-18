@@ -96,6 +96,7 @@ h3{
     color: white;
     padding: 20px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.47);
+    overflow: hidden;
 }
 .contenido-aside{
     background-color:royalblue;
